@@ -18,7 +18,7 @@ SignatureSatori operates as a SaaS solution integrated directly with Google Dire
 | **HTML & CSS** | Advanced capability to edit/insert HTML code directly, enabling custom signature designs. |
 | **Smart Placeholders** | Utilize Smart placeholders to insert dynamic content from RSS feeds and third-party apps directly into signatures. |
 | **Marketing Automation** | **Marketing Planner** for email signature marketing to schedule campaigns and email signature banners within signatures for specific date ranges. |
-| **Integration** | Supports integration with **Canva**, **Vimeo**, **YouTube**, and **X (Twitter)**. |
+| **Integration** | Supports integration with **Canva**, **Vimeo**, **YouTube**, **Eventbrite** and **X (Twitter)**. |
 | **Multiple Aliases** | Capability to set multiple signatures for different sender aliases. |
 
 ---
