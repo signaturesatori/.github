@@ -2,7 +2,7 @@
 
 [![SignatureSatori Banner](https://signaturesatori.com/wp-content/uploads/signaturesatori_primarni_logo_horizontalni_plnobarevna_rgb.svg)](https://signaturesatori.com/)
 
-**SignatureSatori** is a cloud-based application developed by [AppSatori s.r.o.](https://www.appsatori.eu) (a Google Cloud Premier Partner) that allows organizations to centrally manage, design, and deploy email signatures for Google Workspace (Gmail) users via the Google API.
+**SignatureSatori** is a cloud-based application developed by [AppSatori s.r.o.](https://www.appsatori.eu) (a Google Cloud Premier Partner) that allows organizations to centrally manage, design, and deploy company-wide signatures. As a specialized email signature generator for Gmail signatures, it operates via the Google API to ensure brand consistency.
 
 ---
 
@@ -14,10 +14,12 @@ SignatureSatori operates as a SaaS solution integrated directly with Google Dire
 | :--- | :--- |
 | **Central Management** | Configure unique signatures for individuals, specific departments, or the entire organization from one dashboard. |
 | **Directory Sync** | Full synchronization with Google Directory to auto-fill user data (names, titles, phones) into templates. |
-| **Visual Editor** | WYSIWYG editor for template design; supports HTML and CSS customization. |
-| **Marketing Automation** | **Marketing Planner** to schedule campaigns and banners within signatures for specific date ranges. |
+| **Visual Editor & Templates** | WYSIWYG editor to easily design templates and add pre-made elements like buttons, images, and social media icons. |
+| **HTML & CSS** | Advanced capability to edit/insert HTML code directly, enabling custom signature designs. |
+| **Smart Placeholders** | Utilize Smart placeholders to insert dynamic content from RSS feeds and third-party apps directly into signatures. |
+| **Marketing Automation** | **Marketing Planner** for email signature marketing to schedule campaigns and email signature banners within signatures for specific date ranges. |
 | **Integration** | Supports integration with **Canva**, **Vimeo**, **YouTube**, and **X (Twitter)**. |
-| **Multiple Aliases** | capability to set multiple signatures for different sender aliases. |
+| **Multiple Aliases** | Capability to set multiple signatures for different sender aliases. |
 
 ---
 
